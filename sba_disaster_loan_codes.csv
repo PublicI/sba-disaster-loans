@@ -1,0 +1,53 @@
+D/W,Code,Description
+D ,20,Lack of repayment ability - Applicant's income below minimum income level for the family size
+D,21,Lack of repayment ability
+D,22,Lack of ability to repay a loan within a maximum seven year term
+D,23,Inadequate cash flow to repay disaster loan and meet other obligations
+D,24,Excessive amount of debt relative to net worth
+D,25,Inadequate working capital even if SBA could approve a loan
+D,26,Unsatisfactory history on an existing or previous SBA loan
+D,27,Unsatisfactory history on a Federal obligation
+D,28,Unsatisfactory credit history
+D,29,Unsatisfactory debt payment history
+D,30,No disaster-related damage
+D,31A,Economic injury is not substantiated ? No Needs
+D,31B,Economic injury is not substantiated ? Disaster Gross Margin Exceeds Normal
+D,31C,Economic injury is not substantiated ? Custom Text
+D,32,Business activity is not eligible
+D,33,Not eligible because the applicant is not a small business
+D,34,Credit is available elsewhere
+D,35A,Not located in the declared disaster area ? Physical
+D,35B,Not located in the declared disaster area
+D,36,Ineligible real property
+D,37,Ineligible personal property
+D,38,Not eligible due to recoveries from other sources
+D,39A,Not eligible due to failure to maintain flood insurance coverage on an existing SBA loan
+D,39C,Not eligible due to failure to maintain required flood insurance as directed by the Federal Emergency Management Agency (FEMA)
+D,40A,Not a qualified business ? Business
+D,40B,Not a qualified business ? Rental
+D,41,Refusal to pledge available collateral
+D,42,Not eligible due to delinquent child support payments
+D,43,Not eligible due to character reasons
+D,44I,Lack of repayment ability ? Below minimum income level for the family size based upon the applicant's income alone
+D,44R,Lack of ability to repay a disaster loan based upon the applicant's income alone
+D,45,Not eligible due to an outstanding judgment lien for a Federal debt
+D,46B,Members of a fishing crew do not qualify as an eligible small business concern
+D,46C,Not eligible due to property being located in a Coastal Barrier Resource Area
+D,46D,Other
+D,47A,"Not eligible due to policy (NOT a qualified alien, Minor applicant)"
+D,47B,"Not eligible due to policy (NOT a qualified alien, adult applicant using minor?s SSN)"
+D,47C,"Not eligible due to policy (non-citizen, NOT a qualified alien)"
+W,51,Requested information was not furnished
+W,52,Applicant?s Request ? A change in plans
+W,54,Applicant?s Request ? Due to availability of insurance or other recovery
+W,55,Applicant?s Request ? State basis for request
+W,56A,Unable to verify property
+W,56B,Other
+W,57,Consolidation of multiple applications
+W,58,Consolidation of related applications
+W,59,IRS has no record
+W,60A,Character Eligibility Determination ? Withdrawal of an otherwise approvable application
+D,60D,Character Eligibility Determination - Decline
+W,60W,Character Eligibility Determination ? Withdrawal
+W,61,Applicant?s Request Due to market rate
+W,66,Military Reserve EIDL ? Official Call-Up Orders
