@@ -1,5 +1,7 @@
 # SBA Disaster Loans Data Analysis
 
+For the story "New data reveals why 800,000 applicants were denied federal disaster assistance loans"
+
 ## Who did this?
 
 This is an analysis from the Center for Public Integrity's environment and workers' rights team. It was created by data journalist Zach Goldstein. Environment reporter Rachel Leven provided FOIA assistance and general guidance. Research editor Peter Smith helped with FOIA requesting and fact-checking. The story was edited by environment editor Jamie Smith Hopkins and data-checked by data editor Chris Zubak-Skees. 
