@@ -12,7 +12,7 @@ This is an analysis from the Center for Public Integrity's environment and worke
 
 ## Why did we do this?
 
-Due to climate change, natural disasters are getting worse. That means it's more important than ever to understand the federal disaster relief programs meant to help people recover from those disasters. So we wanted to shine a light on how the SBA's disaster loan program works, who it helps, who is left behind and why.
+Climate change is increasing the risk of more frequent and severe natural disasters. That means it's more important than ever to understand the federal disaster relief programs meant to help people recover from those disasters. So we wanted to shine a light on how the SBA's disaster loan program works, who it helps, who is left behind and why.
 
 ## How did we do it?
 
