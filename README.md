@@ -20,6 +20,5 @@ We used Python, Pandas, and Jupyter Notebook to analyze the data. Exploratory gr
 
 ## How can I contact you or find more of your work?
 
-- [Email](zpgoldstein@gmail.com)
-- [Twitter](twitter.com/zpgoldstein)
-- [GitHub](github.com/ZacharyGoldstein)
+- Email - zpgoldstein@gmail.com
+- Twitter - @PublicIntegrity, @zpgoldstein
