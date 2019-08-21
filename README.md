@@ -6,7 +6,7 @@ This is an analysis from the Center for Public Integrity's environment and worke
 
 ## What's here?
 
-- [Data](https://github.com/PublicI/sba-disaster-loans/blob/master/data.gz) - Datasets obtained via a Freedom of Information Act (FOIA) request to the U.S. Small Business Administration (SBA).
+- Data - Datasets obtained via a Freedom of Information Act (FOIA) request to the U.S. Small Business Administration (SBA). These have been converted to .gz files.
 - [Analysis](https://github.com/PublicI/sba-disaster-loans/blob/master/SBA%20Data%20Analysis.ipynb) - An analysis of SBA disaster assistance loan approvals, withdrawals, and declines from fiscal year 2001-2018.
 - [Data dictionary](https://github.com/PublicI/sba-disaster-loans/blob/master/sba_disaster_loan_codes.csv) - A data dictionary listing what the decline/withdrawal codes used in the data mean.
 
