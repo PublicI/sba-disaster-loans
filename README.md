@@ -18,7 +18,7 @@ Climate change is increasing the risk of more frequent and severe natural disast
 
 We used Python, Pandas, and Jupyter Notebook to analyze the data. Exploratory graphics were created with matplotlib, but the final graphics used for the story were created in JavaScript and the code for them is not included in this GitHub repository. 
 
-## How can I contact you or find more of your work?
+## Contact information
 
 - Email - zpgoldstein@gmail.com
 - Twitter - @PublicIntegrity, @zpgoldstein
