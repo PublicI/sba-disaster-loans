@@ -1,6 +1,6 @@
 # SBA Disaster Loans Data Analysis
 
-For the story "New data reveals why 800,000 applicants were denied federal disaster assistance loans"
+For the story ["New data reveals why 800,000 applicants were denied federal disaster assistance loans"](https://publicintegrity.org/environment/new-data-reveals-why-800,000-applicants-were-denied-federal-disaster-assistance-loans/)
 
 ## Who did this?
 
